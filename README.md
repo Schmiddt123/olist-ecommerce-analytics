@@ -1,2 +1,14 @@
-# olist-ecommerce-analytics
-Full end-to-end analytics project based on the Brazilian E-Commerce Public Dataset by Olist. Includes SQL data modeling, ETL, exploratory analysis, and dashboards.
+# Olist E-Commerce Analytics Project
+
+🚧 **Project status:** In active development (2025)
+
+## 📍 Project Roadmap
+- [x] Load raw data  
+- [ ] Create SQL schema (PK/FK, constraints)  
+- [ ] Build ERD diagram  
+- [ ] Clean and transform data  
+- [ ] Analytical SQL queries (sales, delivery performance, reviews)  
+- [ ] Python exploratory analysis  
+- [ ] Power BI dashboard  
+- [ ] Advanced analytics (RFM, cohorts, LTV)  
+- [ ] Machine learning models (optional)  
