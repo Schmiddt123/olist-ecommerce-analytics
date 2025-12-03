@@ -7,8 +7,6 @@
 - [ ] Create SQL schema (PK/FK, constraints)  
 - [ ] Build ERD diagram  
 - [ ] Clean and transform data  
-- [ ] Analytical SQL queries (sales, delivery performance, reviews)  
-- [ ] Python exploratory analysis  
+- [ ] Analytical SQL queries (sales, delivery performance, reviews)   
 - [ ] Power BI dashboard  
-- [ ] Advanced analytics (RFM, cohorts, LTV)  
-- [ ] Machine learning models (optional)  
+
