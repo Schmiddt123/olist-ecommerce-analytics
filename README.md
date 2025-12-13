@@ -1,6 +1,6 @@
 # Olist E-Commerce Analytics Project
 
-🚧 **Project status:** In active development (2025)
+🚧 **Project status:** In active development (12.2025)
 
 ## 📍 Project Roadmap
 - [x] Load raw data  
