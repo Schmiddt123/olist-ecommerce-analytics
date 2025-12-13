@@ -4,7 +4,7 @@
 
 ## 📍 Project Roadmap
 - [x] Load raw data  
-- [ ] Create SQL schema (PK/FK, constraints)  
+- [x] Create SQL schema (PK/FK, constraints)  
 - [ ] Build ERD diagram  
 - [ ] Clean and transform data  
 - [ ] Analytical SQL queries (sales, delivery performance, reviews)   
