@@ -1,5 +1,5 @@
 # Olist E-Commerce Analytics Project
-
+**Note**: Power BI dashboard file (.pbix) not included due to size. Screenshots demonstrate full functionality.
 🚧 **Project status:** In active development (12.2025)
 
 ## 📍 Project Roadmap
