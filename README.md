@@ -35,7 +35,7 @@ Interactive Power BI dashboard with 3 pages:
 
 ## 🗂️ Data Model
 
-Star schema with 9 tables: orders, order_items, order_payments, order_reviews, customers, sellers, products, categories, geolocation.
+Star schema with 8 tables: orders, order_items, order_payments, order_reviews, customers, sellers, products, categories.
 
 ## 🛠️ Tools
 
