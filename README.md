@@ -1,5 +1,7 @@
 # Olist E-Commerce Analytics Project
 **Note**: Power BI dashboard file (.pbix) not included due to size. Screenshots demonstrate full functionality.
+**Note**: Raw data files are not included due to size constraints. 
+Download the dataset from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
 🚧 **Project status:** In active development (12.2025)
 
