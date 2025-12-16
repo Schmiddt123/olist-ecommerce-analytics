@@ -11,7 +11,6 @@
 - [ ] Analytical SQL queries (sales, delivery performance, reviews)   
 - [x] Power BI dashboard
 
-      # Olist E-Commerce Analytics Project
 
 ## 📊 Overview
 
